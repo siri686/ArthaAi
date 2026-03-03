@@ -1,4 +1,7 @@
 streamlit
-pdfplumber
 pandas
 scikit-learn
+pdfplumber
+requests
+beautifulsoup4
+reportlab
